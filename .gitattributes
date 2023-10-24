@@ -1,0 +1,4 @@
+# Re-classify .yy files
+*.yy linguist-language=JSON
+# Ignore .yy files for language statistics 
+*.yy linguist-generated=true
